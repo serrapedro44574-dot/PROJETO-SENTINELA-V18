@@ -1,0 +1,7 @@
+{
+  "name": "prf-central-v13",
+  "version": "13.2.0",
+  "private": true,
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}

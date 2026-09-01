@@ -1,0 +1,12 @@
+[
+  {
+    "id": "USR-8f195e397f53bbc7",
+    "name": "Teste",
+    "memberId": "50013",
+    "username": "teste123",
+    "salt": "0c8324cd1211d565f2cf0a16d2458870",
+    "hash": "53c18a90aa24777c9726d4bdcbcf757cf63a7582d0d3fb63f2fed5b7eca1d981db65b2e382bf86e72ef743c60fde5c8fda5ee9ccd7d9c5e5a0fb00ead986d14c",
+    "role": "Recruta",
+    "createdAt": "2026-09-01T00:35:39.373Z"
+  }
+]
